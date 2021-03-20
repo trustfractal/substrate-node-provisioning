@@ -1,0 +1,6 @@
+name: aws-python-substrate
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: deploy polkadot / kusama validator nodes
